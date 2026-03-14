@@ -16,7 +16,6 @@ Random Forest Classifier
 
 ## Tools
 -Python
--Pandas
 -Scikit-learn
 
 ## Goal
