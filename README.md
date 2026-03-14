@@ -11,7 +11,7 @@ Iris dataset from Scikit-learn
 -petal length
 -petal width
 
-## Alogrithm used
+## Algorithm used
 Random Forest Classifier
 
 ## Tools
