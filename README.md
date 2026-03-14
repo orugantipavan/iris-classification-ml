@@ -1,2 +1,24 @@
-# iris-classification-ml
-Machine Learning model to classify iris flowers using Python and Scikit-learn
+# Iris Flower Classification 
+
+This project builds a Machine Learning model to classify iris flowers.
+
+## Dataset
+Iris dataset from Scikit-learn
+
+## Features
+-sepal length
+-sepal width
+-petal length
+-petal width
+
+## Alogrithm used
+Random Forest Classifier
+
+## Tools
+-Python
+-Pandas
+-Scikit-learn
+
+## Goal
+Understand machine learning workflow:
+data loading -> training -> prediction -> evaluation
