@@ -1,5 +1,4 @@
 # Import Libraries
-import pandas as pd
 import numpy as np 
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
@@ -15,6 +14,6 @@ model = RandomForestClassifier()
 model.fit(X_train, y_train)
 # Predict
 predictions = model.predict(X_test)
-# Accurary
+# Accuracy
 accuracy=accuracy_score(y_test, predictions)
 print("Model Accuracy:", accuracy)
