@@ -7,8 +7,11 @@ Iris dataset from Scikit-learn
 
 ## Features
 -sepal length
+
 -sepal width
+
 -petal length
+
 -petal width
 
 ## Algorithm used
@@ -16,6 +19,7 @@ Random Forest Classifier
 
 ## Tools
 -Python
+
 -Scikit-learn
 
 ## Goal
